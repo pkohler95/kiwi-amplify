@@ -1,0 +1,14 @@
+{
+  "resourceName": "videoStorage",
+  "policyUUID": "123681ca",
+  "bucketName": "kiwiamplify24b07782cb0444e88eb2d58b64d461fe",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
